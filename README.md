@@ -21,11 +21,12 @@ Either [clone][clone] or [download][download] the source files.
 The script was developed in the language Python (version 3.7.9). Please follow the instructions on how to install Python [here][Python].
 
 **Step 3: Virtual environment**
+
 Setting up a virtual environment is not required, although it is strongly advised. Please execute the following command to set up a virtual environment:
 
 ```bash
 $ python3 -m venv venv
-``
+```
 
 After that, virtual environment activation may differ depending on your operation system. 
 
